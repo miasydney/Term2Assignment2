@@ -5,9 +5,9 @@ Hairdressers, makeup artists and other beauty service providers often have last 
 
 The target audience for this application is beauty service providers such as salon owners or small business owners. The buyers for this app include anyone interested in booking last minute beauty services, who live in or close to any major Australian cities. According to statista.com, the demographic who spend the most on beauty services are Gen Z and millenial females (https://www.statista.com/statistics/1271009/shoppers-spending-most-on-skin-care-in-the-beauty-sector-united-states/). More detailed examples of the target audience can be found in the user stories.
 
-##### Link to deployed app: 
-https://beautyappofficial.herokuapp.com/
-##### Staging app:
+##### Link to deployed app:  (currently inactive)
+https://beautyappofficial.herokuapp.com/ 
+##### Staging app: (currently inactive)
 https://staging-beautyapp.herokuapp.com/
 ##### Link to Github repo: 
 https://github.com/miasydney/beautyapprepo
